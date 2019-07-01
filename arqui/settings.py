@@ -81,10 +81,10 @@ WSGI_APPLICATION = 'arqui.wsgi.application'
 DATABASES = {
         'default': {
             'ENGINE' : 'django.db.backends.postgresql_psycopg2',
-            'NAME' : 'arqui2',
-            'USER': 'postgres',
-            'PASSWORD': 'MarceloLz',
-            'HOST': 'localhost',
+            'NAME' : 'd67j9bsu8umg20',
+            'USER': 'tiwhmacqytdyjv',
+            'PASSWORD': 'c193195fccc747882c6f875465ce3dec17afa888a991aa4fb964d5153ac5cede',
+            'HOST': 'ec2-54-221-215-228.compute-1.amazonaws.com',
             'PORT': '5432'
         }
     } 
